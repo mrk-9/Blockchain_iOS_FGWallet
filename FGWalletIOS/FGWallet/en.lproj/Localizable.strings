@@ -1,0 +1,106 @@
+/* 
+ Localizable.strings
+ FGWallet
+ 
+ Created by Ivan on 1/12/18.
+ Copyright © 2018 Ivan. All rights reserved.
+ */
+
+"hello_blank_fragment"             = "Hello blank fragment";
+"action_settings"                  = "Settings";
+"title_activity_sms"               = "SmsActivity";
+"msg_enter_mobile"                 = "Enter your mobile number to get started!";
+
+"enter_otp"                        = "Enter OTP";
+
+"msg_recoveryFirst"     = "Select the ";
+"msg_recoveryLast"     = "th word of your recovery phrase from the list below";
+
+
+
+"msg_manual_otp"                   = "Enter the OTP sent to your mobile number";
+"next"                             = "Next";
+
+"new_walllet"                      = "New Wallet";
+"restore_walllet"                  = "Restore Wallet";
+
+"name"                             = "Name";
+"email"                            = "Email";
+"mobile"                           = "Mobile";
+"submit"                           = "Submit";
+"inquiry"                          = "Inquiry";
+"resend"                           = "Resend";
+
+
+
+//New Wallet
+"mobile_number"                    = "Mobile Number";
+"new_pin"                          = "New PIN (4Digits)";
+"re_enter_pin"                     = "Re-enter PIN";
+
+"terms_conditions"                 = "By Creating a FG wallet account, you agree to terms and conditions of FG wallet";
+
+"create_wallet"                    = "Create Wallet";
+//Restore Wallet
+"restore_mobile_number"            = "Mobile Number";
+
+"your_pin"                         = "Your PIN";
+
+"need_help"                        = "Need help?";
+
+
+//Home
+"transaction_history"              = "Transaction History";
+"market_chart"                     = "Market Chart";
+"atm_map"                          = "ATM Map";
+"settings"                         = "Settings";
+
+"contact_support"                  = "Contact Support";
+"log_out"                          = "Log Out";
+"enter_pin"                        = "Enter Your PIN (4 Digits)";
+//Wallet Menu
+"send"                             = "Send";
+"recover"                          = "Recover";
+"receive"                          = "Receive";
+"enter_recover"                    = "Enter your recovery phrase";
+"current_balance"                  = "Current Balance";
+"btc"                              = "BTC";
+
+"recipient"                        = "Recipient";
+"amount"                           = "Amount";
+"memo"                             = "Memo:";
+"network_fee"                      = "Network Fee";
+"continueT"                        = "Continue";
+"create_new_address"               = "Create New Address";
+//Settings
+"about"                            = "About";
+"recovery_phrase"                  = "Recovery Phrase";
+"change_password"                  = "Change Password";
+"rescan_blockchain"                = "Rescan Blockchain";
+"change_language"                  = "Change Language";
+//Recovery Phrase Settings
+"important"                        = "IMPORTANT";
+
+"title_recovery_phrase"            = "DO NOT let anyone see your recovery phrase or they can spend your bitcoins.";
+"msg_recovery_phrase"              = "NEVER type your recovery phrase into password managers or any software.";
+"show_phrase"                      = "Show phrase";
+"title_recovery_phrase2"           = "If you ever lose your phone, you will need this phrase to recover your wallet";
+"msg_recovery_phrase2"             = "Please write it down";
+//Change Password
+"old_pin"                          = "Old PIN";
+"re_enter_new_pin"                 = "Re-Enter New PIN";
+//Other
+"verify_blockchain"                = "Verify on Blockchain";
+"transaction"                      = "Transaction";
+"transaction_memo"                 = "Memo:";
+"to"                               = "To:";
+"from"                             = "From:";
+"date"                             = "Date:";
+"received"                         = "Received";
+"sent"                             = "Sent";
+"min_withdrawal"                   = "Minimum withdrawal amount:";
+"send_network_fee"                 = "Network fee:";
+"balance_minus_fee"                = "Use total available minus fee:";
+
+
+

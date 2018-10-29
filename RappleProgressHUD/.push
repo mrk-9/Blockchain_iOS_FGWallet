@@ -1,0 +1,26 @@
+#!/bin/sh
+
+DIR="$( cd "$( dirname "$0" )" && pwd )"
+cd $DIR;
+
+echo "Directory :" 
+pwd
+
+read -p "Do yo want to continue? y/n " -n 1 -r
+echo    # (optional) move to a new line
+if [[ ! $REPLY =~ ^[Yy]$ ]]
+then
+	echo "exit"
+    exit 1
+fi
+
+echo "Enter commit message : "
+read message
+
+find . -name '.DS_Store' -print -exec rm -rf {} \;
+
+# commit and push to Github
+git add .
+git commit  -m "$message"
+git push
+

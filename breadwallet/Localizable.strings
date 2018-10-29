@@ -1,0 +1,98 @@
+/* 
+  Localizable.strings
+  FGWallet
+
+  Created by Ivan on 1/12/18.
+  Copyright © 2018 Ivan. All rights reserved.
+*/
+"hello_blank_fragment"             = "Hello blank fragment";
+"action_settings"                 = "Settings";
+"title_activity_sms"               = "SmsActivity";
+"msg_enter_mobile"                 = "Enter your mobile number to get started!";
+"enter_otp"                        = "OTPを入力";
+
+"msg_recoveryFirst"     = "下のリストからリカバリーフレーズの";
+"msg_recoveryLast"     = "番目の単語を選択してください";
+
+
+"msg_manual_otp"                   = "自動的にSMSを検出できない場合は、以下のOTPを入力してください";
+"next"                             = "次";
+
+"new_walllet"                      = "新規ウォレット";
+"restore_walllet"                  = "ウォレット復元";
+
+"name"                             = "名";
+"email"                            = "メール";
+"mobile"                           = "Mobile";
+"submit"                           = "提出する";
+"inquiry"                          = "問い合わせ";
+"resend"                           = "再送信する";
+
+//New Wallet
+"mobile_number"                    = "携帯電話番号";
+"new_pin"                          = "新規暗証番号 (4ケタ)";
+"re_enter_pin"                     = "もう一度暗証番号入力";
+
+"terms_conditions"                 = "FGウォレットアカウントを作成することにより、利用規約に合意するものとします。";
+
+"create_wallet"                    = "ウォレット作成";
+//Restore Wallet
+"restore_mobile_number"            = "携帯電話番号";
+
+"your_pin"                         = "暗証番号";
+
+"need_help"                       = "ヘルプ";
+
+
+//Home
+"transaction_history"              = "取引履歴";
+"market_chart"                     = "マーケットチャート";
+"atm_map"                          = "ATMマップ";
+"settings"                         = "設定";
+
+"contact_support"                  = "サポート問い合わせ";
+"log_out"                          = "ログアウト";
+"enter_pin"                        = "あなたのPINを入力してください";
+//Wallet Menu
+"send"                             = "送信";
+"recover"                          = "回復します";
+"receive"                          = "受信";
+"enter_recover"                    = "リカバリーフレーズを入力";
+"current_balance"                  = "現在の残高";
+"btc"                              = "BTC";
+
+"recipient"                        = "宛先";
+"amount"                           = "数値";
+"memo"                             = "メモ";
+"network_fee"                      = "Network Fee";
+"continueT"                        = "次へ";
+"create_new_address"               = "新規アドレス生成";
+//Settings
+"about"                            = "アプリについて";
+"recovery_phrase"                  = "復元フレーズ";
+"change_password"                  = "パスワード変更";
+"rescan_blockchain"                = "ブロックチェーンを再同期";
+"change_language"                  = "言語の変更";
+//Recovery Phrase Settings
+"important"                        = "重要";
+
+"title_recovery_phrase"            = "復元フレーズは誰にも見せないでください。";
+"msg_recovery_phrase"              = "復元フレーズはパスワード管理ソフトなどで管理しないでください。";
+"show_phrase"                      = "復元フレーズを見る";
+"title_recovery_phrase2"           = "携帯電話をなくした場合、このリカバリーフレーズを使って復元してください。";
+"msg_recovery_phrase2"             = "紙に書いて保管してく保管してください";
+//Change Password
+"old_pin"                          = "古い暗証番号";
+"re_enter_new_pin"                 = "新規暗証番号再入力";
+//Other
+"verify_blockchain"                = "BLOCKCHAINで確認する";
+"transaction"                      = "取引履歴";
+"transaction_memo"                 = "メモ";
+"to"                               = "送信先";
+"from"                             = "送信元";
+"date"                             = "日付";
+"received"                         = "受信";
+"sent"                             = "送信済";
+"min_withdrawal"                   = "最低引き出し額:";
+"send_network_fee"                 = "ネットワーク料金:";
+"balance_minus_fee"                = "利用可能な合計マイナス料金を使用する";
